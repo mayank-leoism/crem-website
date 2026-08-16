@@ -131,6 +131,11 @@ section {
   margin-bottom: 2.5rem;
 }
 
+section ul.indented-list {
+  list-style-position: inside;
+  padding-left: 1rem;
+}
+
 .faq-list {
   max-width: 700px;
   margin: 2rem auto;
